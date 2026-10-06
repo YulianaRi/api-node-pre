@@ -1,0 +1,12 @@
+{
+  "name": "back_node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Yuli Riveros",
+  "license": "MIT",
+  "type": "module"
+}
